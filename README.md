@@ -16,7 +16,7 @@ I design and build web applications with a focus on functionality and solving re
 
 ## ⚡ Fun Facts
 * I am a professional barber 💈
-* I love cars (specifically the Toyota MR2 & '99 Corolla) 🚗
+* I love cars (specifically the Nissan Silvia & I own a '99 Corolla) 🚗
 * I am a gamer 🎮
 * I play the electric guitar and sing 🎸
 
