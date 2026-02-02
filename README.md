@@ -2,7 +2,7 @@
 
 I'm a 4th-year Computer Science student at Holy Angel University, currently pursuing an internship as part of my curriculum.
 
-I design and build web applications with a focus on functionality and solving real-world problems. If an idea pops into my head, whether it's a B2B SaaS or a client management system, I build it.
+I design and build web applications with a focus on functionality and solving real-world problems. If an idea pops into my head, I build it.
 
 ## 🔭 What I'm currently working on
 * **Koji:** A B2B SaaS project I'm developing with React & Vite.
