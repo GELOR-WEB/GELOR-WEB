@@ -1,12 +1,13 @@
 # Hey there! 👋
 
-I'm a 4th-year Computer Science student at Holy Angel University, currently pursuing an internship as part of my curriculum.
+I'm a Computer Science graduate , currently working on some side projects while applying for jobs.
 
 I design and build web applications with a focus on functionality and solving real-world problems. If an idea pops into my head, I build it.
 
-## 🔭 What I'm currently working on
-* **Koji:** A B2B SaaS project I'm developing with React & Vite.
+## 🏢 What I built
 * **Disposal Form System:** A web portal for managing facility disposal requests.
+  
+## 🔭 What I'm currently working on
 * **Barbershop Booking Website:** A scheduling platform for client appointments.
 
 ## 🛠 Tools I use
@@ -22,4 +23,4 @@ I design and build web applications with a focus on functionality and solving re
 
 ## 📫 How to reach me
 * **LinkedIn:** https://www.linkedin.com/in/angelor-de-jesus/
-* **Email:** dejesusangelor@gmail.com
+* **Email:** angelor.dejesust@gmail.com
